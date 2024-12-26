@@ -1,0 +1,14 @@
+{
+  "name": "taskinterndec2024",
+  "version": "1.0.0",
+  "main": "apollo-client.js",
+  "scripts": {
+    "start": "node apollo-client.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
